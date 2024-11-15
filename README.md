@@ -57,13 +57,13 @@ A Streamlit web app is integrated to allow users to input features like Gender, 
 Below are sample outputs of the model’s predictions and the Streamlit web app interface:
 
 ### Model Accuracy
-![Model Accuracy](images/model_accuracy.png "Model Accuracy")
+![Model Accuracy](images/Screenshot\ 2024-04-21\ 222023.png "Model Accuracy")
 
 ### Streamlit Web App
-![Streamlit Web App](images/streamlit_interface.png "Streamlit Web App Interface")
+![Streamlit Web App](images/Screenshot\ 2024-04-23\ 214147.png "Streamlit Web App Interface")
 
 ### Predicted Result
-![Output Sample](images/output_sample.png "Predicted Result")
+![Output Sample](images/Screenshot\ 2024-04-23\ 214445.png "Predicted Result")
 
 ## Future Scope
 The predictive model for transaction card attrition offers significant potential beyond financial services. By leveraging real-time data and refined machine learning methods, the model can drive tailored retention strategies that promote long-term loyalty across industries. Further enhancements, such as feedback-driven updates and advanced data collection, can solidify its value in customer relationship management.
