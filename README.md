@@ -51,6 +51,9 @@ Logistic Regression formula:
 ## Implementation
 A Streamlit web app is integrated to allow users to input features like Gender, Marital Status, Card Category, Dependent Count, etc., to predict whether a customer will continue using the card or attrite. Figures below display the Streamlit interface and output samples.
 
+***streamlit run app.py***
+
+
 ## Future Scope
 The predictive model for transaction card attrition offers significant potential beyond financial services. By leveraging real-time data and refined machine learning methods, the model can drive tailored retention strategies that promote long-term loyalty across industries. Further enhancements, such as feedback-driven updates and advanced data collection, can solidify its value in customer relationship management.
 
